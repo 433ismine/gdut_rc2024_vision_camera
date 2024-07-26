@@ -1,0 +1,2 @@
+cameratest/src/yolov5_findball:cameratest/src/yolov5_ros:cameratest/src/yolov5_ros_msgs:edlib
+-DCATKIN_DEVEL_PREFIX=/home/robocon/ws/devel -DCMAKE_INSTALL_PREFIX=/home/robocon/ws/install -G Unix Makefiles

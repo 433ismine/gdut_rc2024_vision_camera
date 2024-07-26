@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/robocon/ws/src/edlib/build/devel/setup.sh

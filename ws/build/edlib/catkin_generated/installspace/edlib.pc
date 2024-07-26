@@ -1,0 +1,8 @@
+prefix=/home/robocon/ws/install
+
+Name: edlib
+Description: Description of edlib
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp std_msgs

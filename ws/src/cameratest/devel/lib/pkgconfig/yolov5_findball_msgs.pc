@@ -1,0 +1,8 @@
+prefix=/home/yuyu/workspace/robocon/camera/cameratest/devel
+
+Name: yolov5_findball_msgs
+Description: Description of yolov5_findball_msgs
+Version: 1.0.0
+Cflags: -I/home/yuyu/workspace/robocon/camera/cameratest/devel/include
+Libs: -L${prefix}/lib 
+Requires: 

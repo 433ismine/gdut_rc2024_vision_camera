@@ -1,0 +1,8 @@
+prefix=/home/robocon/ws/devel
+
+Name: yolov5_findball
+Description: Description of yolov5_findball
+Version: 1.0.1
+Cflags: -I/home/robocon/ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: std_msgs sensor_msgs yolov5_ros_msgs

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20240626-1309-Experimental"
+	Name="robocon-NUC11PAHi5"
+	Generator="ctest-3.16.3"
+	CompilerName="/usr/bin/c++"
+	CompilerVersion="9.4.0"
+	OSName="Linux"
+	Hostname="robocon-NUC11PAHi5"
+	OSRelease="5.15.0-107-generic"
+	OSVersion="#117~20.04.1-Ubuntu SMP Tue Apr 30 10:35:57 UTC 2024"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="140"
+	ProcessorCacheSize="8192"
+	NumberOfLogicalCPU="8"
+	NumberOfPhysicalCPU="4"
+	TotalVirtualMemory="2047"
+	TotalPhysicalMemory="15606"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2880.51"
+	>
+	<Testing>
+		<StartDateTime>Jun 26 21:09 HKT</StartDateTime>
+		<StartTestTime>1719407383</StartTestTime>
+		<TestList/>
+		<EndDateTime>Jun 26 21:09 HKT</EndDateTime>
+		<EndTestTime>1719407383</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

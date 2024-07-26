@@ -1,0 +1,8 @@
+prefix=/home/yuyu/workspace/robocon/camera/cameratest/devel
+
+Name: yolov5_ros
+Description: Description of yolov5_ros
+Version: 1.0.1
+Cflags: -I/home/yuyu/workspace/robocon/camera/cameratest/devel/include
+Libs: -L${prefix}/lib 
+Requires: std_msgs sensor_msgs yolov5_ros_msgs

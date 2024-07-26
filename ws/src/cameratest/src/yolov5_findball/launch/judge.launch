@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<launch>
+
+
+  <!-- blue -->
+  <node pkg="yolov5_findball" type="judgeball.py" name="yolov5_findball2" output="screen" >
+ 
+
+    <param name="image_topic"       value="/camera/image_raw3" />
+    <param name="pub_topic"         value="/camera1/judge" />
+
+   
+  </node>
+
+  <!-- <node name="camera_ros" pkg="yolov5_ros" type="camera.py" output="screen"> -->
+  <node pkg="yolov5_findball" type="camerajudge.py" name="camera_findball2" output="screen" >
+   <param name="dev"   value="10"/>
+  </node>
+
+
+</launch> 
+

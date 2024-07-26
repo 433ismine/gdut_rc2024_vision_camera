@@ -1,0 +1,2 @@
+yolov5_findball:yolov5_ros:yolov5_ros_msgs
+-DCATKIN_DEVEL_PREFIX=/home/robocon/ws/src/cameratest/devel -DCMAKE_INSTALL_PREFIX=/home/robocon/ws/src/cameratest/install -G Unix Makefiles
